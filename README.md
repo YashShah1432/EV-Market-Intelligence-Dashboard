@@ -136,11 +136,12 @@ Provides detailed analysis of vehicle segments through:
 ## 📷 Dashboard Preview
 
 ### EV Market Overview
-<img width="1436" height="801" alt="Dashboard Page 1" src="https://github.com/user-attachments/assets/85bdf8eb-75f5-4594-a8f0-323a668b5376" />
+<img width="1435" height="802" alt="Dashboard Page 1" src="https://github.com/user-attachments/assets/36d2b565-0ded-45ee-91d9-b17c010a90a0" />
 
 
 ### Vehicle Segment Analytics
-<img width="1432" height="802" alt="Dashboard Page 2" src="https://github.com/user-attachments/assets/00dd317b-3855-476f-b625-ca3168b587db" />
+<img width="1433" height="802" alt="Dashboard Page 2" src="https://github.com/user-attachments/assets/24e19cf3-480f-4908-846a-5423583d8669" />
+
 
 
 ---
